@@ -19,4 +19,8 @@ Gene conservation analysis, corresponding to Figure 1E subplot and Figure S1A.
 
 ### 4.TMEM41B_Phylo
 
-Phylogenetic analysis of TMEM41B, corresponding to Figure 4B, 4D.
+Phylogenetic analysis of TMEM41B, corresponding to Figure 4 A-E.
+
+### 5.snRNA
+
+snRNA analysis, corresponding to Figure S8.
